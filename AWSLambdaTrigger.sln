@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaTrigger", "AWSLambdaTrigger\AWSLambdaTrigger.csproj", "{C2E2147D-6F20-4673-B035-6D51E1442FF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E2147D-6F20-4673-B035-6D51E1442FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E2147D-6F20-4673-B035-6D51E1442FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E2147D-6F20-4673-B035-6D51E1442FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E2147D-6F20-4673-B035-6D51E1442FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AEB5AE6-B712-4BF0-A7BF-006B7B8A13BE}
+	EndGlobalSection
+EndGlobal
